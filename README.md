@@ -1,1 +1,1 @@
-This a machine learning project for store sales prediction.
+ machine learning project for store sales prediction.
