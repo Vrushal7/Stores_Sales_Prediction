@@ -1,1 +1,1 @@
- machine learning project for store sales prediction.
+Description: Development of this model is to predict the store sales using detail enter by user. Model will determine the sales of the stores. To find out what role certain properties of an item play and how they affect their sales by understanding Big Mart sales.
